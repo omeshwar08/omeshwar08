@@ -18,7 +18,6 @@
 
 - [Property Reservation System](https://github.com/omeshwar08/property-reservation-system)
 - [Food Order Application](https://github.com/omeshwar08/food-order-application)
-- [Spring Boot Starter Project](https://github.com/omeshwar08/springboot1)
 
 ---
 
@@ -37,7 +36,5 @@ When I'm not coding, I love capturing the world through my lens as a travel phot
 ---
 
 ## 📊 GitHub Stats
-
 ![Omeshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeshwar08&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omeshwar08&layout=compact&theme=radical)
